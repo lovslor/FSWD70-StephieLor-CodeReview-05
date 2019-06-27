@@ -1,0 +1,39 @@
+movies = [
+{
+	"img": "img/spiritedaway.jpg",
+	"title": "Spirited Away",
+	"description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+	"likes": 0
+},
+{
+	"img": "img/legends.jpg",
+	"title": "Legends of the Fall",
+	"description": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+	"likes": 0
+},
+{
+	"img": "img/meetjoeblack.jpg",
+	"title": "Meet Joe Black",
+	"description": "Death, who takes the form of a young man (Brad Pitt), asks a media mogul (Sir Anthony Hopkins) to act as a guide to teach him about life on Earth, and in the process, he falls in love with his guide's daughter (Claire Forlani).",
+	"likes": 0
+},
+{
+	"img": "img/yourname.jpg",
+	"title": "Your Name",
+	"description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+	"likes": 0
+},
+{
+	"img": "img/beforesunrise.jpg",
+	"title": "Before Sunrise",
+	"description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+	"likes": 0
+},
+{
+	"img": "img/awalktoremember.jpg",
+	"title": "A Walk to remember",
+	"description": "The story of two North Carolina teens, Landon Carter and Jamie Sullivan, who are thrown together after Landon gets into trouble and is made to do community service.",
+	"likes": 0
+},
+
+];
